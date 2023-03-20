@@ -60,4 +60,6 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiagouvea&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiagouvea&theme=dark&include_all_commits=false&count_private=false&layout=compact&border_color=778899&border_radius=10&bg_color=0d1117)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiagouvea&theme=dark&count_private=true&show_icons=true&hide=stars,issues&border_color=778899&border_radius=10&icon_color=EE82EE&bg_color=0d1117)
