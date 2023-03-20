@@ -59,3 +59,5 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiagouvea&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
