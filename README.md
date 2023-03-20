@@ -48,7 +48,6 @@
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
-
 ### Tools:
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -62,6 +61,7 @@
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiagouvea&theme=dark&include_all_commits=false&count_private=false&layout=compact&border_color=778899&border_radius=10&bg_color=0d1117)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiagouvea&theme=dark&count_private=true&show_icons=true&hide=stars,issues&border_color=778899&border_radius=10&icon_color=EE82EE&bg_color=0d1117)
+<div align="left" height=130>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiagouvea&theme=dark&include_all_commits=false&count_private=false&layout=compact&border_color=778899&border_radius=10&bg_color=0d1117" height=130 alt="github languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leticiagouvea&theme=dark&count_private=true&show_icons=true&hide=stars,issues&border_color=778899&border_radius=10&icon_color=EE82EE&bg_color=0d1117" height=130 alt="github stats" />
+</div>
