@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Letícia Gouvêa... 👋</h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-gouvea/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:letfgouvea@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leticiafgouveac@gmail.com)
 
 ###
 
@@ -10,7 +10,6 @@
 ###
 
 * 📚  Full Stack Developer in training at Driven Education.
-* 💬 Pronouns: She/Her.
 * 🐈 Fun fact: Cats > Humans.
 * 👩🏻‍🏫 ➜ 👩‍💻 Curiosity: I'm in a career transition, from a degree in History to Programming.
 
