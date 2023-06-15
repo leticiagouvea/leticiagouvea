@@ -9,7 +9,7 @@
 
 ###
 
-* 📚  Full Stack Developer in training at Driven Education.
+* 📚  Full Stack Developer.
 * 🐈 Fun fact: Cats > Humans.
 * 👩🏻‍🏫 ➜ 👩‍💻 Curiosity: I'm in a career transition, from a degree in History to Programming.
 
